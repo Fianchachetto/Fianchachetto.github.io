@@ -1,5 +1,4 @@
 # Fianchachetto.github.io
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Temperature Sensor Data</title>
